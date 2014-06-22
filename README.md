@@ -12,7 +12,7 @@ Install via composer:
     "repositories": [
          {
              "type" : "vcs",
-             "url": "https://github.com/icontact/icontact-api-php.git"
+             "url": "https://github.com/staticglitch/icontact-api-php.git"
          }
      ],
 ~~~
