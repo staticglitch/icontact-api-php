@@ -3,3 +3,16 @@ Original API seems unmaintained, this is a custom fork so they don't break the c
 Added:
 composer (thanks Kiwup)
 addcontact parameters via array (thanks davelopware)
+
+Install via composer:
+~~~
+    "require": {
+        "icontact/icontact-api-php" : "2.1.*"
+    },
+    "repositories": [
+         {
+             "type" : "vcs",
+             "url": "https://github.com/icontact/icontact-api-php.git"
+         }
+     ],
+~~~
